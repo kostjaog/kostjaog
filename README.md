@@ -31,16 +31,6 @@
 <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
 </div>
 
-### GitHub Stats 📈
-<div align="center">
-  <a href="https://github.com/oganesK">
-    <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=oganesK&show_icons=true&hide=stars&hide_border=true" alt="Constantine's GitHub Stats" />
-  </a>
-  <a href="https://github.com/oganesK">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oganesK&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Constantine's Language Stats" />
-  </a>
-<div>
 
 ---
 
